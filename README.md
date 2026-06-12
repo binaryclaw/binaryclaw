@@ -1,4 +1,4 @@
-````html
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=190&section=header&text=BinaryClaw&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=11111b" width="100%" />
   <br><br>
@@ -40,9 +40,7 @@
 
 <div align="center">
 
-```bash
 $ grep -i philosophy /dev/brain
-````
 
 <p style="color:#FF69B4;font-family:'Fira Code',monospace;">
 <code>"First Understand The Logic, Then Teach The Machine To Work For You."</code>
