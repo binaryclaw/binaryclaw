@@ -1,70 +1,59 @@
-
+````html
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=190&section=header&text=BinaryClaw&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=11111b" width="100%" />
+  <br><br>
 
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Bash+Scripting;Process+Optimization;Arch+Linux+User;Code+And+Programming" alt="Typing SVG" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=BinaryClaw&label=Profile+Views&color=FF69B4&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/followers/BinaryClaw?color=FF69B4&labelColor=1e1e2e&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/stars/BinaryClaw?color=FF69B4&labelColor=1e1e2e&style=for-the-badge" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Bash+Scripting;Linux+Automation;Arch+Linux+User;Code+And+Programming" alt="Typing SVG" />
 </div>
 
----
-
 <p align="left">
-  <img src="Assets/pink.gif" width="180px" align="left" style="border-radius: 8px; border: 1px solid #FF69B4; margin-right: 20px;" />
+  <img src="Assets/purple.gif" width="180px" align="left" style="border-radius: 8px; border: 1px solid #FF69B4; margin-right: 20px;" />
 
   <h3 style="color: #FF69B4; margin-top: 0;">💖 About Me</h3>
 
-  I am a dedicated <b>Technology Enthusiast</b> and <b>Automation Learner</b> with a focus on system-level logic. I am mastering <code style="color: #FF69B4;">Linux</code> and <code style="color: #FF69B4;">Bash Scripting</code> to create <b>efficient Linux environments</b> and <b>Automation Utility Tools</b> and <b>Scripts</b> that streamline complex tasks and optimize digital workflows.
+  I am a dedicated <b>Technology Enthusiast</b> and <b>Automation Learner</b> focused on system-level logic and efficient workflows. I enjoy mastering <code style="color:#FF69B4;">Linux</code> and <code style="color:#FF69B4;">Bash Scripting</code> to create powerful automation tools, optimize environments, and solve complex problems through code.
 </p>
 
 <br clear="left"/>
 
 <p>
-        🎀 <b>Focus:</b> Linux Systems & Bash Scripting & Shell Logic <br>
-        🌸 <b>Objective:</b> Programming and Scripting Automation & Helping Others with Code-Driven Solutions<br>
-        💗 <b>Mastering:</b>
-        <a href="https://www.python.org/">
-        <img src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=FF69B4" alt="Python" />
-        </a>
-        <a href="https://www.gnu.org/software/bash/">
-        <img src="https://img.shields.io/badge/Bash-1e1e2e?style=for-the-badge&logo=gnubash&logoColor=FF69B4" alt="Bash" />
-        </a>
-        <a href="https://archlinux.org/">
-        <img src="https://img.shields.io/badge/Arch_Linux-1e1e2e?style=for-the-badge&logo=archlinux&logoColor=FF69B4" alt="Arch" />
-        </a>
-        <a href="https://www.vim.org/">
-        <img src="https://img.shields.io/badge/Vim-1e1e2e?style=for-the-badge&logo=vim&logoColor=FF69B4" alt="vim" />
-        </a>
-</p>
+🎀 <b>Focus:</b> Linux Systems • Bash Scripting • Shell Logic <br>
+🌸 <b>Objective:</b> Build Useful Automation Tools & Help Others Through Code <br>
+💗 <b>Mastering:</b>
 
----
+<a href="https://www.python.org/">
+<img src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=FF69B4" alt="Python"/>
+</a>
+
+<a href="https://www.gnu.org/software/bash/">
+<img src="https://img.shields.io/badge/Bash-1e1e2e?style=for-the-badge&logo=gnubash&logoColor=FF69B4" alt="Bash"/>
+</a>
+
+<a href="https://archlinux.org/">
+<img src="https://img.shields.io/badge/Arch_Linux-1e1e2e?style=for-the-badge&logo=archlinux&logoColor=FF69B4" alt="Arch Linux"/>
+</a>
+
+<a href="https://www.vim.org/">
+<img src="https://img.shields.io/badge/Vim-1e1e2e?style=for-the-badge&logo=vim&logoColor=FF69B4" alt="Vim"/>
+</a>
+</p>
 
 <div align="center">
 
-<code><b>$ grep -i "philosophy" /dev/brain</b></code>
+```bash
+$ grep -i philosophy /dev/brain
+````
 
-<p style="color: #FF69B4; font-family: 'Fira Code', monospace; margin-top: 10px;">
+<p style="color:#FF69B4;font-family:'Fira Code',monospace;">
 <code>"First Understand The Logic, Then Teach The Machine To Work For You."</code>
 </p>
 
 </div>
 
----
-
 <div align="center">
 
 <h3>
-<img src="https://api.iconify.design/lucide:database.svg?color=%23ff69b4" width="20" />
+<img src="https://api.iconify.design/lucide:database.svg?color=%23ff69b4" width="20"/>
  💗 Tech Stack
 </h3>
 
@@ -74,25 +63,21 @@
 
 </div>
 
----
-
-<h3 align="center">🩷 GitHub Analytics</h3>
+<h3 align="center">🎀 GitHub Analytics</h3>
 
 <div align="center">
 
-<img src="https://img.shields.io/github/stars/BinaryClaw?style=for-the-badge&logo=github&color=FF69B4&labelColor=1e1e2e" alt="Total Stars" />
+<img src="https://img.shields.io/github/stars/BinaryClaw?style=for-the-badge&logo=github&color=FF69B4&labelColor=1e1e2e" alt="Stars"/>
 
-<a href="mailto:sarbaazgithub@gmail.com" target="blank">
-<img src="https://api.iconify.design/lucide:mail.svg?color=%23ff69b4" width="28" height="28" alt="Email">
+<a href="mailto:sarbaazgithub@gmail.com">
+<img src="https://api.iconify.design/lucide:mail.svg?color=%23ff69b4" width="28" height="28" alt="Email"/>
 </a>
 
-<a href="https://instagram.com/scripty.cat" target="blank">
-<img src="https://api.iconify.design/simple-icons:instagram.svg?color=%23ff69b4" width="30" height="30" alt="Instagram" />
+<a href="https://instagram.com/scripty.cat">
+<img src="https://api.iconify.design/simple-icons:instagram.svg?color=%23ff69b4" width="30" height="30" alt="Instagram"/>
 </a>
 
 <br><br>
-
-<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BinaryClaw&background=00000000&stroke=00000000&ring=FF69B4&fire=FF69B4&currStreakNum=FFC0CB&currStreakLabel=FF69B4&sideNums=FFC0CB&sideLabels=FF69B4&dates=FFC0CB&hide_border=true" width="48%" />
 
@@ -106,12 +91,6 @@
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=BinaryClaw&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" width="100%" />
-
-</div>
-
----
-
 <div align="center">
 
 💖 🌸 🎀 💗 🩷 💖 🌸 🎀 💗 🩷
@@ -119,5 +98,4 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer" width="100%" />
-
-</div>
+```
