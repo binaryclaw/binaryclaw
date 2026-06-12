@@ -7,7 +7,7 @@
 </div>
 
 <p align="left">
-  <img src="Assets/purple.gif" width="180px" align="left" style="border-radius: 8px; border: 1px solid #FF69B4; margin-right: 20px;" />
+  <img src="Assets/pink.gif" width="180px" align="left" style="border-radius: 8px; border: 1px solid #FF69B4; margin-right: 20px;" />
 
   <h3 style="color: #FF69B4; margin-top: 0;">💖 About Me</h3>
 
